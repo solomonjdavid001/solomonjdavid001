@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 <h1 align="center">Hi 👋, I'm Solomon David</h1>
 <h3 align="center"> 🚀 Backend Developer Wiz 🚀</h3>
 <p>
@@ -6,6 +8,8 @@ A Passionate Backend Developer for crafting robust server-side implementations a
 
 Let's connect and explore the endless vast possibilities of backend development! 🚀✨
 </p>
+
+![]()
 
 - 🌱 I’m currently learning **NestJS, NextJS**
 
