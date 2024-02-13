@@ -16,12 +16,16 @@
 
 Let's connect and explore the endless vast possibilities of backend development! 🚀✨
 </p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
 
 - 🌱 I’m currently learning **NestJS, NextJS**
 
 - 💬 Ask me about **ExpressJS, Microsoft Azure Services**
 
-- 💪🏼 Future Goals: Learn more technologies, starting next with Docker & Kubernetees - Never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more technologies, Docker!
+
+- 🚀 Never stop creating new ideas.
+
 
 ### 💻 MY TECH STACK:
 
@@ -39,4 +43,8 @@ Let's connect and explore the endless vast possibilities of backend development!
 <img src="https://raw.githubusercontent.com/solomonjdavid001/solomonjdavid001/output/snake.svg" alt="Snake animation" />
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/solomonjdavid001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20✨;&font=Candara&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=20"></a>
+</p>
 
