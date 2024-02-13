@@ -17,5 +17,5 @@ Let's connect and explore the endless vast possibilities of backend development!
 
 | Languages       | Backend Frameworks | Databases | Cloud | Tools | Testing |
 | ----------------- | -------------------- | ---------- | -------- | -------- | ------- |
-| <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python,java" /> | <img src="https://skillicons.dev/icons?i=express,nest,next" />  |  <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql,redis" /> | <img src="https://skillicons.dev/icons?i=azure,aws,vercel,heroku" /> | <img src="https://skillicons.dev/icons?i=vscode,docker,git,github,linux,postman" /> | <img src="https://skillicons.dev/icons?i=jest,selenium" /> |
+| <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python,java" /> | <img src="https://skillicons.dev/icons?i=express,nest,next" />  |  <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql,redis" /> | <img src="https://skillicons.dev/icons?i=azure,aws,vercel,heroku" /> | <img src="https://skillicons.dev/icons?i=vscode,docker,git,linux,postman" /> | <img src="https://skillicons.dev/icons?i=jest,selenium" /> |
 
