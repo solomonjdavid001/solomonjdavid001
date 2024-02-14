@@ -1,4 +1,4 @@
-![](./Github-Banner.gif)
+![](./Github_Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Solomon David</h1>
 
