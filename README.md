@@ -29,8 +29,8 @@ Let's connect and explore the endless vast possibilities of backend development!
 
 ### 💻 MY TECH STACK:
 
-| Languages       | Backend Frameworks | Databases | Cloud | DevOps | OS | Testing |
-| ----------------- | -------------------- | ---------- | -------- | -------- | ------- |
+| Languages | Backend Frameworks | Databases | Cloud | DevOps | OS | Testing |
+| --------- | ------------------ | --------- | ----- | ------ | -- | ------- |
 | <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python,java" /> | <img src="https://skillicons.dev/icons?i=express,nest,next" />  |  <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql,redis" /> | <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,heroku" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows" /> | <img src="https://skillicons.dev/icons?i=jest,selenium" /> |
 
 <div align="center">
