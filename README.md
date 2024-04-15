@@ -31,7 +31,7 @@ Let's connect and explore the endless vast possibilities of backend development!
 
 | Languages | Backend Frameworks | Databases | Cloud | DevOps | OS | Testing |
 | --------- | ------------------ | --------- | ----- | ------ | -- | ------- |
-| <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python,java" /> | <img src="https://skillicons.dev/icons?i=express,nest,next" />  |  <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql,redis" /> | <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,heroku" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows" /> | <img src="https://skillicons.dev/icons?i=jest,selenium" /> |
+| <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python&perline=3" /> | <img src="https://skillicons.dev/icons?i=express,nest&perline=3" />  |  <img src="https://skillicons.dev/icons?i=mongo,mysql,redis&perline=3" /> | <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,heroku&perline=3" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus&perline=3" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&perline=3" /> | <img src="https://skillicons.dev/icons?i=jest,selenium&perline=3" /> |
 
 <div align="center">
 <div><h3>Lets connect 👨🏻‍💻✨ </h3></div>
