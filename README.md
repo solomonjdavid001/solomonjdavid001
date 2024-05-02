@@ -22,7 +22,7 @@ Let's connect and explore the endless vast possibilities of backend development!
 
 - 💬 Ask me about **ExpressJS, Microsoft Azure Services**
 
-- 💪🏼 Future Goals: Learn more technologies, Docker!
+- 💪🏼 Future Goals: Learn Golang
 
 - 🚀 Never stop creating new ideas.
 
