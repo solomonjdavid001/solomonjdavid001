@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Solomon David</h1>
 
 <a href="https://github.com/solomonjdavid001"> 
- <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="180">    
 </a>
 
 <p align="center">
