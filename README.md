@@ -2,27 +2,22 @@
 
 <h1 align="center">Hi 👋, I'm Solomon David</h1>
 
-<a href="https://github.com/solomonjdavid001"> 
- <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="180">    
-</a>
-
 <p align="center">
  
-<a href="https://github.com/solomonjdavid001"> 
+<!--<a href="https://github.com/solomonjdavid001"> 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Backend+Developer;MERN|JavaScript|Python" alt="Typing SVG" />
 </a>
+-->
 
-<p align="justify">A Passionate Backend Developer for crafting robust server-side implementations and API development using the JavaScript language and Node.js runtime. Specializing in creating efficient, scalable, and seamless solutions, I bring expertise in server-side development to ensure optimal data flow and interactions. My skill set encompasses building and optimizing databases, as well as designing APIs that power dynamic applications. With a commitment to excellence in JavaScript and Node.js, I contribute to the backbone of web applications, turning concepts into functional and high-performing realities.</p>
-
-Let's connect and explore the endless vast possibilities of backend development! 🚀✨
+<p align="justify">A Passionate Full-Stack Web Developer, DevOps Engineer, and Cloud Architect who loves turning ideas into scalable, efficient, and robust solutions.</p>
+Let's connect and explore the endless vast possibilities of development! 🚀✨
 </p>
-<img align="right" src="./Designer-4.png" width="170">
 
-- 🌱 I’m currently learning **NestJS, NextJS**
+<!--<img align="right" src="./Designer-4.png" width="170"> -->
 
-- 💬 Ask me about **ExpressJS, Microsoft Azure Services**
+- 🌱 I’m currently learning **Golang, Rust, NextJS**
 
-- 💪🏼 Future Goals: Learn Golang
+- 💬 Ask me about **ExpressJS, Microsoft Azure Services, AWS**
 
 - 🚀 Never stop creating new ideas.
 
