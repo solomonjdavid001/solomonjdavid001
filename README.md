@@ -1,6 +1,6 @@
 ![](./assets/banner-01.gif)
 
-<h1 align="center">Hi 👋, I'm Solomon David</h1>
+<h1 align="center">Hey 👋, I'm Solomon David</h1>
 
 <p align="center">
  
