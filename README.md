@@ -40,6 +40,6 @@ Let's connect and explore the endless vast possibilities of development! 🚀✨
 </div>
 
 <p align="center">
-  <a href="https://github.com/solomonjdavid001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20✨;&font=Candara&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=20"></a>
+  <a href="https://github.com/solomonjdavid001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20✨;&font=Candara&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=20"></a>
 </p>
 
