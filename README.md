@@ -24,9 +24,9 @@ Let's connect and explore the endless vast possibilities of development! 🚀✨
 
 ### 💻 MY TECH STACK:
 
-| Languages | Frameworks | Databases | Cloud | DevOps | OS | Testing |
-| --------- | ---------- | --------- | ----- | ------ | -- | ------- |
-| <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python,go,rust&perline=3" /> | <img src="https://skillicons.dev/icons?i=express,nest,tailwind&perline=3" />  |  <img src="https://skillicons.dev/icons?i=mongo,mysql,redis&perline=3" /> | <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,heroku&perline=3" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,grafana,prometheus,githubactions&perline=3" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,raspberrypi&perline=3" /> | <img src="https://skillicons.dev/icons?i=jest,selenium&perline=3" /> |
+| Languages | Frameworks | Databases | Cloud | DevOps | OS | Testing | Runtime / Package Managers | Desktop / Mobile Apps |
+| --------- | ---------- | --------- | ----- | ------ | -- | ------- | -------------------------- | --------------------- |
+| <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python,go,rust,cpp&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,express,nest,tailwind&perline=3" />  |  <img src="https://skillicons.dev/icons?i=mongo,mysql,redis&perline=3" /> | <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,heroku&perline=3" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,grafana,prometheus,githubactions&perline=3" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,raspberrypi&perline=3" /> | <img src="https://skillicons.dev/icons?i=jest,selenium&perline=3" /> | <img src="https://skillicons.dev/icons?i=vite,bun,npm,pnpm&perline=3" /> | <img src="https://skillicons.dev/icons?i=electron,tauri&perline=3" /> |
 
 <div align="center">
 <div><h3>Lets connect 👨🏻‍💻✨ </h3></div>
